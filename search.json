@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is my site."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Home",
+    "section": "",
+    "text": "This is my site."
+  },
+  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
