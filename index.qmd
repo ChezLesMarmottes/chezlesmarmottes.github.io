@@ -4,7 +4,4 @@ title: "Home"
 
 ## Hello
 
-This is my site.
-
-lmao test
-more test
+This is my site!
