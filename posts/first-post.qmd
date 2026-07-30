@@ -1,0 +1,15 @@
+---
+title: "My First Post"
+date: 2026-07-30
+categories: [math]
+---
+
+## Hello
+
+This is my first post.
+
+Inline math: $a^2 + b^2 = c^2$
+
+$$
+\int_0^1 x^2 dx = \frac{1}{3}
+$$
