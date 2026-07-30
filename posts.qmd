@@ -1,0 +1,38 @@
+# Notes
+
+```{=html}
+<ul>
+  <li><a href="posts/01-manifolds.html">Manifolds</a></li>
+</ul>
+
+
+(We’ll improve this later; keep it simple now.)
+
+---
+
+# 4) Write your first article
+
+Create:
+
+```text
+posts/01-manifolds.qmd
+
+---
+title: "What is a manifold?"
+---
+
+A manifold is, informally, a space that locally looks like $\mathbb{R}^n$.
+
+## Motivation
+
+We want to generalize curves and surfaces.
+
+## Definition
+
+A topological manifold is a space such that...
+
+$$
+\phi: U \to \mathbb{R}^n
+$$
+
+is a homeomorphism.

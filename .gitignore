@@ -1,0 +1,21 @@
+# Quarto output
+_site/
+.quarto/
+
+# Knitr / Jupyter cache
+*_cache/
+.ipynb_checkpoints/
+
+# Python (if you use Jupyter or scripts)
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# macOS / Windows noise
+.DS_Store
+Thumbs.db
+
+# VS Code (optional)
+.vscode/
