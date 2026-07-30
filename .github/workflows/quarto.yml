@@ -1,4 +1,4 @@
-name: Publish Quarto Site
+name: Deploy Quarto site
 
 on:
   push:
@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
+      contents: read
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repo
@@ -19,11 +21,12 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render site
-        run: |
-          rm -rf _site
-          quarto render
+        run: quarto render
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: _site
 
       - name: Deploy to GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
+        uses: actions/deploy-pages@v2
