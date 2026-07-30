@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "My First Post\n\n\n\nmath\n\n\n\n\n\n\n\n\n\nJul 30, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "My First Post",
+    "section": "",
+    "text": "This is my first post.\nInline math: \\(a^2 + b^2 = c^2\\)\n\\[\n\\int_0^1 x^2 dx = \\frac{1}{3}\n\\]"
+  },
+  {
+    "objectID": "posts/first-post.html#hello",
+    "href": "posts/first-post.html#hello",
+    "title": "My First Post",
+    "section": "",
+    "text": "This is my first post.\nInline math: \\(a^2 + b^2 = c^2\\)\n\\[\n\\int_0^1 x^2 dx = \\frac{1}{3}\n\\]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Math Blog",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
