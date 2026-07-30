@@ -1,0 +1,14 @@
+---
+title: "Linear Algebra"
+description: "An introduction to vector spaces, linear maps, and matrices."
+---
+
+# Linear Algebra
+
+This course introduces core ideas in vector spaces and linear transformations.
+
+## Course goals
+
+- Understand vectors and vector spaces.
+- Study linear maps and their properties.
+- Connect matrix operations to systems of equations.

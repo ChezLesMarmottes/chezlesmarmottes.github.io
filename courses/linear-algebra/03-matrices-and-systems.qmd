@@ -1,0 +1,25 @@
+---
+title: "Lesson 3: Matrices and Systems"
+---
+
+## Overview
+
+Matrices provide a practical way to represent linear maps and solve systems of equations.
+
+## Intuition
+
+A matrix takes one vector and produces another by linear combination of its columns.
+
+## Formal Definition
+
+A matrix $A \in \mathbb{R}^{m \times n}$ represents a map from $\mathbb{R}^n$ to $\mathbb{R}^m$.
+
+$$
+Ax=b
+$$
+
+## Examples
+
+- Solving a $2 \times 2$ system
+- Row reduction
+- Matrix multiplication

@@ -1,0 +1,10 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+---
+
+This is the place for shorter reflections, notes, and miscellaneous writing.

@@ -1,0 +1,25 @@
+---
+title: "Lesson 2: Linear Maps"
+---
+
+## Overview
+
+Linear maps preserve the structure of vector spaces.
+
+## Intuition
+
+A linear map sends straight lines to straight lines and preserves the origin.
+
+## Formal Definition
+
+A map $T: V \to W$ is linear if
+
+$$
+T(u+v)=T(u)+T(v), \qquad T(\lambda u)=\lambda T(u).
+$$
+
+## Examples
+
+- Rotation in the plane
+- Projection onto an axis
+- Differentiation on polynomial spaces

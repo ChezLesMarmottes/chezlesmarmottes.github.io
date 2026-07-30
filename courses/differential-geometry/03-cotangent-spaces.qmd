@@ -1,0 +1,27 @@
+---
+title: "Lesson 3: Cotangent Spaces"
+---
+
+## Overview
+
+Cotangent spaces are the dual spaces to tangent spaces and play a central role in differential forms and calculus on manifolds.
+
+## Intuition
+
+While tangent vectors represent directions, cotangent vectors represent linear measurements of those directions.
+
+## Formal Definition
+
+The cotangent space at $p$ is the dual vector space
+
+$$
+T_p^*M = \operatorname{Hom}(T_pM, \mathbb{R}).
+$$
+
+A differential $df$ at a point is an example of a cotangent vector.
+
+## Examples
+
+- The differential of a function $f$ on $\mathbb{R}^n$
+- The gradient as a covector in a coordinate formulation
+- The role of cotangent spaces in differential geometry

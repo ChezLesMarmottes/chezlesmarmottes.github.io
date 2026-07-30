@@ -7,10 +7,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: posts.qmd
-        text: Notes
+      - href: courses/index.qmd
+        text: Courses
+      - href: blog/index.qmd
+        text: Blog
       - href: about.qmd
         text: About
+
+  sidebar:
+    style: docked
+    contents: auto
+    collapse-level: 1
 
 format:
   html:

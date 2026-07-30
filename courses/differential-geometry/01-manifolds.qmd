@@ -1,0 +1,35 @@
+---
+title: "Lesson 1: Manifolds"
+---
+
+## Definition
+
+A <u>manifold</u> is a topological space
+that locally resembles Euclidean space near any point.
+
+**More precisely:**\
+An $n$-dimensional manifold ($n$-manifold) $M$ is a topological space
+with the property that each point on $M$ has a neighbourhood
+that is topologically isomorphic (homeomorphic)
+to an open subset of $\mathbb{R}^n$.
+
+## Intuition
+
+The idea is that a curved surface,
+such as a sphere, can be studied using coordinate patches.
+Near each point, the surface behaves like a flat plane.
+
+## Charts, atlases and local coordinates
+
+A <u>chart</u> is a map $\phi$ from $U$ to $V$
+
+Here, $U$ is an open subset of $M$
+and $V$ is an open subset of $\mathbb{R}^n$ (Euclidean space)
+$\phi$ is then (by the definition of a manifold) a bijection
+from $U$ to $V$, and can be called a <u>chart</u> at $U$
+
+Formally:
+
+$$
+\phi: U \subseteq M \longrightarrow V \subseteq \mathbb{R}^n
+$$

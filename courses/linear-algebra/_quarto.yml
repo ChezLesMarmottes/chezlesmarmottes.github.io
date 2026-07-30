@@ -1,0 +1,14 @@
+project:
+  book
+
+book:
+  title: "Linear Algebra"
+  sidebar:
+    style: "docked"
+    contents:
+      - index.qmd
+      - section: "Lessons"
+        contents:
+          - 01-vectors-and-spaces.qmd
+          - 02-linear-maps.qmd
+          - 03-matrices-and-systems.qmd

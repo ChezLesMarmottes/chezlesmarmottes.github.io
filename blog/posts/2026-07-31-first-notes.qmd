@@ -1,0 +1,12 @@
+---
+title: "First notes from the new blog"
+description: "A short reflection on organising ideas in a course-style site."
+date: 2026-07-31
+categories: [notes, learning, quarto]
+---
+
+## A small shift in structure
+
+This blog page is meant for lighter pieces: quick notes, thoughts, and experiments that do not need a full lesson format.
+
+The course pages remain the place for structured study, while the blog works as a flexible companion space.

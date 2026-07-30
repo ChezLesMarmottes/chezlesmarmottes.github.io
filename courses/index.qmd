@@ -1,0 +1,14 @@
+---
+title: "Courses"
+---
+
+This page provides a structured overview of the available course tracks.
+
+Browse the available course sequences below.
+
+## Available courses
+
+- [Differential Geometry](differential-geometry)
+  - A structured introduction to manifolds, tangent spaces, and cotangent spaces.
+- [Linear Algebra](linear-algebra)
+  - An introduction to vector spaces, linear maps, and basic matrix ideas.

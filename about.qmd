@@ -2,15 +2,14 @@
 title: "About"
 ---
 
-#Welcome weary internet traveller
-Warm yourself by the fire and take a look around
+# About this site
 
-This is my maths blog!
-I've been a hobbyist mathematician for a while now,
-and this actually just started as a notebook of sorts,
-where I would research topics and try to make them intuitive for myself.
+This space began as a personal notebook for mathematical ideas and has grown into a small course-oriented publishing platform.
 
-Then I realised, why not help some others too!
-It's not grad school stuff, but maybe I could help some people out.
+The goal is to make mathematics feel more approachable by combining:
 
-This site is built using [Quarto](https://quarto.org) and published with [Github Pages](https://docs.github.com/en/pages).
+- structured lesson sequences,
+- short blog-style reflections, and
+- well-organised notes that can grow over time.
+
+This site is built using [Quarto](https://quarto.org) and deployed with [GitHub Pages](https://docs.github.com/en/pages).

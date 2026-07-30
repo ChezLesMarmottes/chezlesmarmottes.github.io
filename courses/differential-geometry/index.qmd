@@ -1,0 +1,20 @@
+---
+title: "Differential Geometry"
+description: "A structured introduction to manifolds, tangent spaces, and cotangent spaces."
+---
+
+# Differential Geometry
+
+This course introduces the central geometric ideas behind smooth manifolds and the linear spaces attached to them.
+
+## Course goals
+
+- Develop intuition for spaces that locally resemble Euclidean space.
+- Understand tangent and cotangent spaces.
+- Connect local calculus to global geometric structure.
+
+## Recommended path
+
+1. Start with manifolds.
+2. Study tangent spaces.
+3. Finish with cotangent spaces.

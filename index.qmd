@@ -2,6 +2,11 @@
 title: "Home"
 ---
 
-## Hello
+# Welcome
 
-This is my site!
+This site now works as a simple course platform with a separate blog for shorter notes and reflections.
+
+## Navigation
+
+- [Courses](courses/index.qmd) for structured study
+- [Blog](blog/index.qmd) for informal writing

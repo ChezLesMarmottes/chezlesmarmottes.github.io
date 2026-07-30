@@ -1,0 +1,15 @@
+project:
+  book
+
+
+book:
+  title: "Differential Geometry"
+  sidebar:
+    style: docked
+    contents:
+      - index.qmd
+      - section: "Lessons"
+        contents:
+          - 01-manifolds.qmd
+          - 02-tangent-spaces.qmd
+          - 03-cotangent-spaces.qmd

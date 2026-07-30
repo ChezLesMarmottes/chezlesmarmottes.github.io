@@ -1,0 +1,25 @@
+---
+title: "Lesson 2: Tangent Spaces"
+---
+
+## Overview
+
+Tangent spaces describe the first-order linear approximation of a manifold at a point.
+
+## Intuition
+
+At a point on a curve or surface, the tangent space captures the possible directions of motion. It is the best linear model near that point.
+
+## Formal Definition
+
+For a manifold $M$ at a point $p$, the tangent space $T_pM$ consists of equivalence classes of curves through $p$.
+
+$$
+T_pM \cong \mathbb{R}^n
+$$
+
+## Examples
+
+- The tangent space to $\mathbb{R}^n$ is itself.
+- The tangent line to a circle at a point.
+- The tangent plane to a sphere at a point.

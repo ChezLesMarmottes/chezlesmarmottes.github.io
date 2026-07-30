@@ -1,0 +1,26 @@
+---
+title: "Lesson 1: Vectors and Spaces"
+---
+
+## Overview
+
+A vector space is a collection of objects that can be added together and scaled.
+
+## Intuition
+
+Vectors are like arrows, but the abstract viewpoint lets us study many different kinds of objects at once.
+
+## Formal Definition
+
+A vector space $V$ over a field $F$ is closed under addition and scalar multiplication.
+
+$$
+ u + v \in V, \quad \lambda u \in V
+$$
+
+## Examples
+
+- $
+\mathbb{R}^2$
+- The space of polynomials
+- The space of continuous functions
