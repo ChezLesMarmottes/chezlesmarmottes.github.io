@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This is my site."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Home",
+    "section": "",
+    "text": "This is my site."
+  },
+  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Posts",
@@ -26,12 +40,5 @@
     "title": "My First Post",
     "section": "",
     "text": "This is my first post.\nInline math: \\(a^2 + b^2 = c^2\\)\n\\[\n\\int_0^1 x^2 dx = \\frac{1}{3}\n\\]"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Math Blog",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
